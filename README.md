@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgedotJava
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Open Source projects that envolves Node.js, React, HTML, CSS, Javascript and Java.
+- 💞️ I’m looking to collaborate on Open Source projects that envolves Node.js, React, HTML, CSS, Javascript and Python.
 - 📫 How to reach me geolucas3@gmail.com 
 
 <!---
