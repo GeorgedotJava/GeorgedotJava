@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgedotJava
-- 👀 I’m interested in Shell script, Javascript, Node.js and Python.
+- 👀 I’m interested in Shell script, NodeJs, Python and Django.
 - 🌱 I’m currently learning Back-End development and DevOps culture.
 - 📫 How to reach me geolucas3@gmail.com 
 
