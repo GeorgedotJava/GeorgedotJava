@@ -21,11 +21,7 @@ Minhas principais skills como Desenvolvedor 💻
 )
 
 
-Estudando atualmente sobre:
 
-![Skills](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Skills](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Skills](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
