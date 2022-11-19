@@ -4,7 +4,7 @@ Hi, my name is George Lucas and I'm interested in Multi-cloud, DevOps culture an
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](geolucas3@gmail.com)|
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LucasSystem32#4538)
  
-Programming Languages, Frameworks and Cloud Providers that I know:
+Programming Languages, Frameworks, Cloud Providers and other tecnologies that I know:
 
 ![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
