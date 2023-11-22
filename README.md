@@ -1,4 +1,4 @@
-Hi, my name is George Lucas and I'm interested in Multi-cloud, DevOps culture and Web Development!
+Hi, my name is George Lucas and I'm interested in DevOps culture and Web Development!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-vieira-4111ba18a/)|
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](geolucas3@gmail.com)|
